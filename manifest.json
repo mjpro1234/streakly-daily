@@ -1,0 +1,22 @@
+
+{
+  "id": "./",
+  "name": "Streakly Daily",
+  "short_name": "Streakly",
+  "description": "Plan your day, build better habits, stay focused, and track your daily progress.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0B1020",
+  "theme_color": "#FF8A00",
+  "lang": "en",
+  "categories": ["lifestyle", "productivity"],
+  "icons": [
+    {
+      "src": "https://cdn.jotfor.ms/assets/img/favicons/favicon-2021-light%402x.png",
+      "sizes": "288x288",
+      "type": "image/png"
+    }
+  ]
+}
